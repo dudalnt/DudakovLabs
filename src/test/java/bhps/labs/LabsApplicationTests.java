@@ -1,13 +1,15 @@
-package dudakov.alexandr.demo;
+package bhps.labs;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class DemoApplicationTests {
+class LabsApplicationTests
+{
 
     @Test
-    void contextLoads() {
+    void contextLoads()
+    {
     }
 
 }
